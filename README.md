@@ -1,6 +1,6 @@
 # Forever Fashion
 
-This is a simple ecormmece web app which displays information about products being sold.  It is my first app that I was able to host online.
+This is a simple ecommerce web app which displays information about products being sold.  It is my first app that I was able to host online.
 
 ## What I learnt:
 
